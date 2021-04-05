@@ -34,12 +34,12 @@ def existe_inondation(im_flash, im_nocturne, s_sombre, s_bande, seuil):
     else:
         return True
 
-im_flash = cv2.imread("Images/S6_SousEau_Couleur.jpg")
-#im_flash = cv2.imread("Images/S5_Sec_Couleur.jpg")
+im_flash = cv2.imread("S6_SousEau_Couleur.jpg")
+#im_flash = cv2.imread("S5_Sec_Couleur.jpg")
 cv2.imshow('image', im_flash)
 
-im_nocturne = cv2.imread("Images/S6_SousEau_NB.jpg")
-#im_nocturne = cv2.imread("Images/S5_Sec_NB.jpg")
+im_nocturne = cv2.imread("S6_SousEau_NB.jpg")
+#im_nocturne = cv2.imread("S5_Sec_NB.jpg")
 
 #res = sans_sombre(im_flash, 115)
 
