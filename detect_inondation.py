@@ -1,5 +1,5 @@
 import cv2
-import strel, morpho, myutil
+import strel, morpho, myutil #des fichiers créés lors des TPs du cours traitement d'images à l'université Sorbonne paris nord 
 import numpy as np
 
 
