@@ -1,5 +1,5 @@
 import cv2
-from Commun import strel, morpho, myutil
+import strel, morpho, myutil
 import numpy as np
 
 
