@@ -1,4 +1,4 @@
-# Traitement-d-images
+# Traitement d'images
 
 Le projet est réalisé dans le cadre d’apprentissage des outils de traitement d’images, notamment le domaine de
 la morphologie. En tant qu’étudiante en master mathématiques de données, j’ai choisi d’étudier cette matière
